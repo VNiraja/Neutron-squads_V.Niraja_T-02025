@@ -1,4 +1,4 @@
-# 🌐 3DVERSE:   Create 3D Websites with Just Text or Voice
+# 🌐 3DVERSE: ZeroCode3D – Create 3D Websites with Just Text or Voice
 
 3DVERSE is a revolutionary Gen-AI-powered platform that lets anyone create immersive **3D websites** using **natural language** — no coding required. Whether you're a creator, marketer, freelancer, or educator, 3DVERSE empowers you to build dynamic 3D web experiences through text, voice, or image prompts.
 
@@ -60,6 +60,36 @@ Anyone who wants powerful 3D websites **without code or developer dependency**.
 
 ---
 
+## 📅 ⏱️ 48-Hour Hackathon Execution Plan
+
+### 🕐 Phase 1: Setup & Base Architecture (0–8 hrs)
+- ✅ Finalize tech stack: React + Node.js + Three.js
+- ✅ Set up GitHub repo, folders, and Vercel/Netlify deployment
+- ✅ Implement Whisper and GPT API hooks
+- ✅ Design basic UI wireframe and integrate with Three.js canvas
+
+### 🕑 Phase 2: Core Functionality (8–24 hrs)
+- 🛠 Prompt-to-scene: Connect GPT-4 to convert prompt → code
+- 🧠 Auto-generate 3D layout with basic animation/camera/light
+- 🎤 Enable voice-to-prompt via Whisper (basic)
+- 🖼 Add image/sketch upload (optional)
+- 🪄 Implement real-time scene generation and display
+
+### 🕒 Phase 3: Smart Tools & Interactivity (24–36 hrs)
+- 🧩 Add “Explain Scene” – natural language description of code
+- 🔁 Add “Voice Change” feature to modify scene via voice prompt
+- ⚠️ Implement auto-error detection (missing lights, overlaps)
+- 🛠 Drag-and-drop interaction layer for object adjustments
+
+### 🕓 Phase 4: Export, Polish & Pitch (36–48 hrs)
+- 📦 Export options: ZIP, GitHub Repo, or Vercel deployment
+- 🌐 Final design polish + responsive layout
+- 🧪 Final testing: Mobile + Desktop
+- 🎥 Create demo video & pitch deck for judges
+- 🗣️ Prepare 2-minute demo & Q&A answers
+
+---
+
 ## 💡 Unique Features
 
 - 🧠 Auto-detects missing or broken elements
@@ -84,7 +114,7 @@ Anyone who wants powerful 3D websites **without code or developer dependency**.
 ## 🚀 Feasibility & Execution
 
 - ✅ All core technologies are publicly available
-- ⚙️ MVP can be developed within weeks
+- ⚙️ MVP can be developed within 48 hours
 - 📱 Mobile and offline expansion planned
 - 🔁 API-efficient architecture minimizes cost and latency
 
@@ -122,17 +152,11 @@ Anyone who wants powerful 3D websites **without code or developer dependency**.
 
 ## ✨ Summary
 
-**3DVERSE ** makes 3D website creation as easy as typing a sentence or speaking into your mic. No code, no limits — just your imagination and AI doing the heavy lifting.
+**3DVERSE / ZeroCode3D** makes 3D website creation as easy as typing a sentence or speaking into your mic. No code, no limits — just your imagination and AI doing the heavy lifting.
 
 > 🚀 **Build immersive 3D websites in minutes, not months.**
 
 ---
-
-## 🔗 Connect & Contribute
-
-Want to help build the future of 3D web design?  
-Stay tuned for the open-source version and collaboration opportunities.
-
 
 
 ## 📹 Demo Video
